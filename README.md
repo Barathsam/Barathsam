@@ -1,5 +1,5 @@
 # Hi, I am BARATH P
-## MERN Stack Developer(Fresher)
+## MERN Stack Developer
 ## Contact Me On: barathsam555.p@gmail.com
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Barathsam&show_icons=true&theme=radical"/>
